@@ -28,7 +28,7 @@ name=["たんじろう","ぎゆう","ねずこ","むざん"]
 このような引数を使う関数を作成してみよう。<BR>
 
 ```
-def test(hikisuu):<BR>
+def test(hikisuu):
 ```
 
 【仕様】<BR>
